@@ -101,6 +101,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
+    <Content Include="dist\main.js" />
     <Content Include="src\index.js" />
     <Content Include="src\site.css" />
     <Content Include="Default.aspx" />
