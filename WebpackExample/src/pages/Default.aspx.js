@@ -1,3 +1,4 @@
-﻿import { buildBarChart } from "../charts";
+﻿import ChartBuilder from "../charts";
 
-buildBarChart("container");
+const builder = new ChartBuilder();
+builder.buildBarChart("container");
